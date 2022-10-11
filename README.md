@@ -94,5 +94,8 @@ In order to open serial monitor in linux:
 
 This will open the serial monitor where "Hello World" would already have started getting printed.
 
+![Screenshot from 2022-10-10 21-57-25](https://user-images.githubusercontent.com/114270637/194987398-98b0798d-64cd-4479-8208-0b214d1fbd6f.png)
+
+
 
 (We did it..!)
